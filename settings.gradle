@@ -1,0 +1,2 @@
+include ':app', ':vibrateex', ':notificationex', ':batterystat'
+rootProject.name='Service'
