@@ -1,2 +1,2 @@
-include ':app', ':vibrateex', ':notificationex', ':batterystat'
+include ':app', ':vibrateex', ':notificationex', ':batterystat', ':cpex'
 rootProject.name='Service'
